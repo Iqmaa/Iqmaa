@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on *myself*
 
-- 🌱 I’m currently learning **python & ML**
+- 🌱 I’m currently learning **Tech**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Iqmaa/Iqmaa](https://github.com/Iqmaa/Iqmaa)
 
@@ -17,7 +17,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Natural Language Processing(NLP) for Beginners](https://www.freecodecamp.org/news/natural-language-processing-techniques-for-beginners/)
 - [What is supervised Learning](https://iqmacodes.hashnode.dev/what-is-supervised-learning)
-- [Beginner python project -making a quiz game in python](https://iqmacodes.hashnode.dev/how-to-make-a-quiz-game-in-python)
+- [Beginner python project; making a quiz game in python](https://iqmacodes.hashnode.dev/how-to-make-a-quiz-game-in-python)
+- [An Introduction to Cybersecurity](https://iqmacodes.hashnode.dev/an-introduction-to-cybersecurity)
 
 <!-- BLOG-POST-LIST:END -->
 
