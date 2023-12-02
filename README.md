@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/Iqmaa/Iqmaa/blob/main/LinkedIn_Iqma.png)](https://www.linkedin.com/in/iqma/)
 <!-- <h1 align="center">Hi 👋, I'm Iqma</h1> -->
-<h3 align="center">Machine Learning & AI enthusiast || Technical writer || volunteering & opensource lover</h3>
+<h3 align="center">Tech Nomad || Technical writer || volunteering & opensource lover</h3>
 <!-- <img align="right" alt= "coding" width ="400" src= "[https://media.licdn.com/dms/image/D4D03AQGch_ZzOUZsAg/profile-displayphoto-shrink_800_800/0/1686728087894?e=1695859200&v=beta&t=3gtQBA58StUsERmndczJ_U1nkGIRytao3z5c_7yXCv8](https://media.istockphoto.com/vectors/arab-girl-working-at-home-or-in-office-with-laptop-vector-id1150873865?k=6&m=1150873865&s=170667a&w=0&h=8zSyc1ET5xUf27hpTIlJjPBhnfr6DQYH7gJZhWjgOhc=)"> -->
 
 - 🔭 I’m currently working on *myself*
