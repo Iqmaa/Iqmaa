@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on *myself*
 
-- 🌱 I’m currently learning **Tech**
+- 🌱 I’m currently learning **Technical writing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Iqmaa/Iqmaa](https://github.com/Iqmaa/Iqmaa)
 
