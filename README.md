@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://iqmacodes.hashnode.dev/](https://iqmacodes.hashnode.dev/)
 
-- 📫 How to reach me **https://twitter.com/Iqma__**
+- 📫 How to reach me **[https://twitter.com/Iqma__](https://twitter.com/Iqma__)**
 
 ### Articles
 <!-- BLOG-POST-LIST:START -->
