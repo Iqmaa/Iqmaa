@@ -27,7 +27,7 @@
 <a href="https://twitter.com/Iqma__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iqma_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/olawore hikmah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olawore hikmah" height="30" width="40" /></a>
 <a href="https://iqmacodes.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="iqma" height="30" width="40" /></a>
-<a href="https://medium.com/@olaworehikmah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@iqma" height="30" width="40" /></a>
+<a href="https://medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@iqma" height="30" width="40" /></a>
 <a href="/https://iqmacodes.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://iqmacodes.hashnode.dev/rss.xml" height="30" width="40" /></a>
 </p>
 
