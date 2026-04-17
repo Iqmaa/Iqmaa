@@ -5,13 +5,15 @@
 
 - 👨‍💻 You can check out my projects at [https://github.com/Iqmaa/Iqmaa](https://github.com/Iqmaa/Iqmaa)
 
+- Coding, CTF, and Robotics Streaks at [my github gist](https://gist.github.com/Iqmaa)
+
 - 📝 I also write articles on [https://iqmacodes.hashnode.dev/](https://iqmacodes.hashnode.dev/)
 
 - 📫 connect with me on **[https://twitter.com/Iqma__](https://twitter.com/Iqma__)**
 
 ### Articles
 <!-- BLOG-POST-LIST:START -->
-- [Natural Language Processing(NLP) for Beginners](https://www.freecodecamp.org/news/natural-language-processing-techniques-for-beginners/)
+- [Natural Language Processing(NLP) for Beginners](https://www.freecodecamp.org/news/natural-language-processing-techniques-for-beginners/)(FreeCodeCamp)
 - [What is supervised Learning](https://iqmacodes.hashnode.dev/what-is-supervised-learning)
 - [Beginner python project; making a quiz game in python](https://iqmacodes.hashnode.dev/how-to-make-a-quiz-game-in-python)
 - [An Introduction to Cybersecurity](https://iqmacodes.hashnode.dev/an-introduction-to-cybersecurity)
