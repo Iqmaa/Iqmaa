@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Iqmaa/Iqmaa/blob/main/Cryptiq%20banner.png)](https://linktr.ee/Iqma)
+[![MasterHead](https://github.com/Iqmaa/Iqmaa/blob/main/github%20banner.png)](https://linktr.ee/Iqma)
 <!-- <h1 align="center">Hi 👋, I'm Iqma</h1> -->
 <h3 align="center"> Software | Hardware | Reverse Engineer </h3>
 <!-- <i><p> Philomath, Writer, Opensource & Volunteering</h3></i> -->
