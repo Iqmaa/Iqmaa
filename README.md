@@ -6,7 +6,7 @@
 
 - 👨‍💻 You can check out my projects at [https://github.com/Iqmaa/Iqmaa](https://github.com/Iqmaa/Iqmaa)
 
-- Coding, CTF, and Robotics Streaks at [my github gist](https://gist.github.com/Iqmaa)
+- 365-day Coding, CTF, and Robotics Streaks at [my github gist](https://gist.github.com/Iqmaa)
 
 - 📝 I also write articles on [https://iqmacodes.hashnode.dev/](https://iqmacodes.hashnode.dev/)
 
